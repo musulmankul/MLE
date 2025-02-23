@@ -1,0 +1,5 @@
+train: C:\Users\rysbekov_a.AU\Downloads\FIP\dataset\my_dataset_yolo\images\train
+val: C:\Users\rysbekov_a.AU\Downloads\FIP\dataset\my_dataset_yolo\images\val
+
+nc: 5
+names: ['bounty', 'lion', 'mars', 'milkyway', 'snickers']

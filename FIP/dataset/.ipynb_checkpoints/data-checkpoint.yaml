@@ -1,0 +1,6 @@
+train: Users\rysbekov_a.AU\Downloads\FIP\dataset\images\train\images
+val: Users\rysbekov_a.AU\Downloads\FIP\dataset\images\valid\images
+test: Users\rysbekov_a.AU\Downloads\FIP\dataset\images\test\images
+
+nc: 5
+names: ['bounty', 'lion', 'mars', 'milkyway', 'snickers']
